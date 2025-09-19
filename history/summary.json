@@ -4,19 +4,19 @@
     "url": "https://tobet.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobet.org.ico",
     "slug": "tobet",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 345,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "time": 460,
+    "timeDay": 460,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-09-19": 5
+      "2025-09-19": 16
     }
   },
   {
