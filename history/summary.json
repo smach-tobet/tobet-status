@@ -25,7 +25,7 @@
     "url": "https://spotlightr.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spotlightr.com.ico",
     "slug": "spoltlightr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 436,
     "timeMonth": 424,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-09": 0
+    }
   }
 ]
