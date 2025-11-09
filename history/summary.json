@@ -25,19 +25,19 @@
     "url": "https://spotlightr.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spotlightr.com.ico",
     "slug": "spoltlightr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 501,
-    "timeDay": 669,
-    "timeWeek": 436,
-    "timeMonth": 424,
+    "timeDay": 595,
+    "timeWeek": 447,
+    "timeMonth": 427,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-11-09": 0
+      "2025-11-09": 18
     }
   }
 ]
