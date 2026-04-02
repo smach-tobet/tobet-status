@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tobet.org.ico",
     "slug": "tobet",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.21%",
+    "uptimeYear": "97.22%",
     "time": 530,
     "timeDay": 587,
     "timeWeek": 441,
@@ -35,7 +35,7 @@
     "url": "https://spotlightr.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spotlightr.com.ico",
     "slug": "spotlightr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -46,6 +46,8 @@
     "timeWeek": 668,
     "timeMonth": 473,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   }
 ]
