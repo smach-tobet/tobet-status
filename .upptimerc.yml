@@ -5,6 +5,8 @@ repo: tobet-status # The name of this repository
 sites:
   - name: TOBET
     url: https://tobet.org
+  - name: App Site
+    url: https://app.tobet.org
   - name: Spotlightr
     url: https://spotlightr.com/
 
